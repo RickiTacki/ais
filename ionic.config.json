@@ -1,0 +1,7 @@
+{
+  "name": "ais",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
